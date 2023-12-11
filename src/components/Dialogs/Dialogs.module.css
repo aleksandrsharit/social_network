@@ -1,0 +1,37 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 2fr 10fr
+}
+
+.dialogsItems {
+    padding: 10px;
+}
+
+.dialogsItems .active {
+    color: gold;
+}
+
+.messages {
+    padding: 10px;
+}
+
+.messages .messages {
+    color: white;
+}
+
+.formControl.error {
+    border: 2px red solid;
+    margin: 2px;
+    display: inline-block;
+}
+
+
+.formControl.error {
+    color: red;
+    margin: 2px;
+}
+
+.errors {
+    color: red;
+}
+

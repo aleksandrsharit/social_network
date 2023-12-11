@@ -1,0 +1,16 @@
+.descriptionBlock {
+    padding: 10px;
+}
+
+.mainPhoto {
+    max-width: 400px;
+    max-height: 400px;
+}
+
+.contact {
+    padding-left: 10px;
+}
+
+.errors div {
+    color: red;
+}

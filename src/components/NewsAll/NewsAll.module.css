@@ -1,0 +1,18 @@
+.item {
+    padding: 10px;
+}
+
+.itemChildren {
+    color: white;
+}
+
+.itemChildren .newsImg {
+    width: 350px;
+    height: 400px;
+}
+
+.itemChildren .commentImg {
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+}

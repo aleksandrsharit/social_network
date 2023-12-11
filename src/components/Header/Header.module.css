@@ -1,0 +1,22 @@
+.header {
+  grid-area: h;
+  background-color: rgb(30, 70, 30);
+  border: 3px solid rgba(12, 27, 22);
+}
+
+.header img {
+  width: 20px;
+}
+
+.loginBlock {
+  float: right;
+}
+
+.loginBlock a {
+  color: white;
+}
+
+.buttonClass {
+  float: right;
+  margin-right: 10px;
+}

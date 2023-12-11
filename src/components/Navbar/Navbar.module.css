@@ -1,0 +1,17 @@
+.nav {
+    grid-area: n;
+    background-color: rgba(12, 27, 22, 0.842);
+    padding: 20px;
+    border: 7px solid rgba(12, 27, 22);
+    border-radius: 0px 0px 0px 10px;
+}
+
+.item a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+.link.active {
+    color: gold;
+    font-weight: bold;
+  }
